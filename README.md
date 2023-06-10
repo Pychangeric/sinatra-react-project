@@ -3,8 +3,9 @@
 ### Eric Mutembei : 7/6/2023
 ****
 ## Project Description
-This is a backend that stores the data and manages the system information for #Book Shop Connector
-This is a project that I have designed to create a link to client with the author this project is expected to contain details for various books and on veiw it shows the book overview.
+This is a backend that stores the data and manages the system information for #Book Shop Connector that,
+
+I have designed to create a link to client with the author this project is expected to contain details for various books and on veiw it shows the book overview.
 The oveview has the author's name and also price on them it does all related details that help the user know if it is the book of interest.
 ******
 
