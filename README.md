@@ -40,7 +40,7 @@ The oveview has the author's name and also price on them it does all related det
 
 *****
 ## Live Link
-Or you can access to the frontend bit through the below link [https://dancing-narwhal-cadc38.netlify.app/](link.com/)
+Or you can access to the frontend bit through the below link [https://dancing-narwhal-cadc38.netlify.app/](https://shop-me-git-main-pychangeric.vercel.app/)
 *****
 ## Dependencies
 - Google
